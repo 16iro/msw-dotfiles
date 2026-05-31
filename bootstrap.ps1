@@ -1,4 +1,4 @@
-#Requires -Version 5.1
+﻿#Requires -Version 5.1
 <#
 .SYNOPSIS
     MSW 기본 규칙(닷파일)을 대상 프로젝트에 적용합니다.
