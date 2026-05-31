@@ -1,0 +1,9 @@
+.DS_Store
+*.log
+
+# 토큰/비밀값은 절대 커밋하지 않음
+.env
+.env.*
+!.env.example
+
+node_modules/

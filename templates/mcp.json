@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "MSW-MCP": {
+      "type": "http",
+      "url": "https://msw-mcp.nexon.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${MSW_MCP_TOKEN}"
+      }
+    }
+  }
+}

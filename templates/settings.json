@@ -1,0 +1,14 @@
+{
+  "extraKnownMarketplaces": {
+    "msw-ai-coding-plugins-official": {
+      "source": {
+        "source": "github",
+        "repo": "MSW-Git/msw-ai-coding-plugins-official"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "msw-maker-base-skill@msw-ai-coding-plugins-official": true
+  },
+  "enabledMcpjsonServers": ["MSW-MCP"]
+}
